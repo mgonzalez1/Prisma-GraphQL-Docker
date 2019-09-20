@@ -1,1 +1,1 @@
-# Prisma-GraphQL-Docker
+# Prisma-GraphQL-Yoga-Docker
